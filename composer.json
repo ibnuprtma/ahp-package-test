@@ -1,16 +1,14 @@
 {
-    "name": "your-brand-name/your-project",
+    "name": "ibnuprtma/ahp-package",
     "type": "library",
-    "description": "Your package description goes here",
+    "description": "This AHP Package",
     "keywords": ["relevant","tags","go","here"],
-    "homepage": "https://yourcompany.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jordi Boggiano",
-            "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be",
+            "name": "ibnu pratama",
+            "email": "pibnu86@gmail.com",
             "role": "Developer"
         }
-    ],
+    ]
 }
