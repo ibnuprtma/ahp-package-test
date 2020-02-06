@@ -4,6 +4,7 @@
     "description": "This AHP Package",
     "keywords": ["relevant","tags","go","here"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "ibnu pratama",
